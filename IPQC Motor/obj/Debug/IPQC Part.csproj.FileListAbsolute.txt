@@ -27,3 +27,28 @@ D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.exe.config
 D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.csproj.ResolveComReference.cache
 D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.exe
 D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.pdb
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\bin\Debug\IPQC Part.exe.config
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.csproj.ResolveComReference.cache
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.exe
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.pdb
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\bin\Debug\IPQC Part.exe.manifest
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\bin\Debug\IPQC Part.application
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\bin\Debug\IPQC Part.exe
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\bin\Debug\IPQC Part.pdb
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\bin\Debug\Microsoft.Build.Framework.dll
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.csprojResolveAssemblyReference.cache
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Part.frmFMS.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Part.frmChangePass.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmHioki.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmItem.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmItemMaster.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmLogin.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmManual.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmPushPull.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Motor.frmScale.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Part.frmRegisterUser.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC_Part.Properties.Resources.resources
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.csproj.GenerateResource.Cache
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.TrustInfo.xml
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.exe.manifest
+D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.application
