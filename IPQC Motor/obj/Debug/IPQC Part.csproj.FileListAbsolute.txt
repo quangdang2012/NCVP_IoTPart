@@ -1,0 +1,29 @@
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.csproj.ResolveComReference.cache
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\Microsoft.Build.Framework.dll
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmHioki.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmItem.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmItemMaster.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmLogin.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmManual.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmPushPull.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Motor.frmScale.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.csproj.GenerateResource.Cache
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.exe.config
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.exe.manifest
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.application
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.exe
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.pdb
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Part.Properties.Resources.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.TrustInfo.xml
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.exe.manifest
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.application
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.exe
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.pdb
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Part.frmChangePass.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Part.frmRegisterUser.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC_Part.frmFMS.resources
+D:\GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.csprojResolveAssemblyReference.cache
+D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\bin\Debug\IPQC Part.exe.config
+D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.csproj.ResolveComReference.cache
+D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.exe
+D:\NCVP_GIT\NCVP_CheckMan_Part\IPQC Motor\obj\Debug\IPQC Part.pdb
