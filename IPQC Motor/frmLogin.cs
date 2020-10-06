@@ -65,7 +65,7 @@ namespace IPQC_Motor
                 else
                 {
 
-                    MessageBox.Show("Pasword is incorrect", "Error", MessageBoxButtons.RetryCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                    MessageBox.Show("Pasword is incorrect", "Error", MessageBoxButtons.RetryCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);//danglq3 test
                 }
             }
             catch 
