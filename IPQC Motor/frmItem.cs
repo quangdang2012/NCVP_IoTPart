@@ -24,7 +24,7 @@ namespace IPQC_Motor
         private void frmItem_Load(object sender, EventArgs e)
         {
 
-            TfSQL con = new TfSQL();
+            TfSQL con = new TfSQL(); 
             string sql = @"
 select distinct model_cd from(
 select model_cd ,user_dept_cd from m_model a,m_user b where a.user_id = b.user_id )t,m_user a 

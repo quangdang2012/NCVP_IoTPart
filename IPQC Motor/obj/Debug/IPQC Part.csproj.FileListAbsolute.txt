@@ -52,3 +52,30 @@ D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.csproj.GenerateResource.
 D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.TrustInfo.xml
 D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.exe.manifest
 D:\NCVP_GIT\NCVP_IoTPart\IPQC Motor\obj\Debug\IPQC Part.application
+D:\Source\IPQC Motor\bin\Debug\IPQC Part.exe.config
+D:\Source\IPQC Motor\bin\Debug\IPQC Part.exe.manifest
+D:\Source\IPQC Motor\bin\Debug\IPQC Part.application
+D:\Source\IPQC Motor\bin\Debug\IPQC Part.exe
+D:\Source\IPQC Motor\bin\Debug\IPQC Part.pdb
+D:\Source\IPQC Motor\bin\Debug\Microsoft.Build.Framework.dll
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.csprojAssemblyReference.cache
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.csproj.ResolveComReference.cache
+D:\Source\IPQC Motor\obj\Debug\IPQC_Part.frmFMS.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Part.frmChangePass.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmHioki.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmItem.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmItemMaster.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmLogin.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmManual.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmPushPull.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Motor.frmScale.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Part.frmRegisterUser.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC_Part.Properties.Resources.resources
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.csproj.GenerateResource.cache
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.csproj.CoreCompileInputs.cache
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.TrustInfo.xml
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.exe.manifest
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.application
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.csproj.CopyComplete
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.exe
+D:\Source\IPQC Motor\obj\Debug\IPQC Part.pdb

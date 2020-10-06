@@ -14,14 +14,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="IPQC Part.exe.manifest" size="7063">
+    <dependentAssembly dependencyType="install" codebase="IPQC Part.exe.manifest" size="7767">
       <assemblyIdentity name="IPQC Part.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EE67kH8FGDT78psw+tR4z3GftIu0jyqeV6tzWFgIF4U=</dsig:DigestValue>
+        <dsig:DigestValue>0wZmdMT1FhmlG6tLzGDBkWmIxyTjqZIk/F5nuItwusk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
